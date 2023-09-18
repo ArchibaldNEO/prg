@@ -8,5 +8,6 @@ public class Main {
     System.out.println("Hello world!333");
 
     System.out.println(1);
+    System.out.println(2);
   }
 }
