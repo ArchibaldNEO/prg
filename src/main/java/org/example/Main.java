@@ -11,5 +11,12 @@ public class Main {
     System.out.println("Hello world!22");
     System.out.println("Hello world!323423");
     System.out.println("Hello world!333");
+
+    System.out.println(1);
+    System.out.println(2);
+
+
+    System.out.println(1);
+    System.out.println(2);
   }
 }
